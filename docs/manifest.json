@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/Peter/projects/erp/ErpNetDocs/edu",
+  "source_base_path": "C:/TFSAgent15/_work/28/s",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,29 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "iy8IHnOGdHngIlInRcaMcA=="
+          "hash": "LJ9XHSeUjWZum6ArhaRRIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/logo.svg"
         }
       },
       "is_incremental": false,
@@ -30,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "O9dwlrrn0sfWEHGP+6kW9g=="
+          "hash": "9hxa6tPO4HHPp9XgmZs5MA=="
         }
       },
       "is_incremental": false,
@@ -63,12 +85,10 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
