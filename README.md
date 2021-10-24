@@ -1,2 +1,3 @@
-# edu
-Тraining documentation of ERP.net
+# Welcome to the ERP.net Тraining Documentation
+
+The documentation uses DocFX to build.
