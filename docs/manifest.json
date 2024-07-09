@@ -21,66 +21,6 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "docs/docs/docs/fonts/glyphicons-halflings-regular.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/docs/docs/fonts/glyphicons-halflings-regular.svg"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/docs/docs/logo.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/docs/docs/logo.svg"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/docs/fonts/glyphicons-halflings-regular.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/docs/fonts/glyphicons-halflings-regular.svg"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/docs/logo.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/docs/logo.svg"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/fonts/glyphicons-halflings-regular.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/fonts/glyphicons-halflings-regular.svg"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "docs/logo.svg",
-      "output": {
-        "resource": {
-          "relative_path": "docs/logo.svg"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
